@@ -28,9 +28,18 @@
 **5. Large standard libraries/modules:** 
 - Python comes with a rich collection of built-in libraries for various tasks, saving you time and effort.
 
-**6. Extensive ecosystem:**
+**6. Extensive, portable and flexible ecosystem:**
 - A vast array of third-party libraries and frameworks are available for specialized applications.
+- We can write and run python the python codes in IDE's, text editors, terminals, web based compiler, etc.
+- IDE's (PyCharm, Fleet, Microsoft Visual Studio Code) Google Colab, Anaconda, Jupyter Notebook etc. 
 - Python’s ecosystem thrives on collaboration and knowledge-sharing (GitHub, Stackoverflow, Official websites)
 
 **7. Extensive community and forums:**
 - We’ll find ample resources, forums, and discussion groups to help you on your Python journey.
+
+**8. Applications:**
+- Statistics, Web development, Internet of Things (IoT), Analytics, Data Science, Automation, Scripting, Gaming, etc.
+
+**9. Platform Support:**
+- Python is available for all the platforms (Windows, MacOS, Linux) and works on almost all the IDE's.
+- An IDE (Integrated Development Environment) is a software application that helps programmers develop code efficiently.
